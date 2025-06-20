@@ -1,57 +1,57 @@
 <div align="center">
 
-# 👋 Hello, I'm **Flaw**
+# 👋 你好，我是 **Flaw**
 
-### 🚀 Full-Stack Developer | 📚 Book Enthusiast | 🎮 Gaming Aficionado
+### 🚀 全栈开发工程师 | 📚 阅读爱好者 | 🎮 游戏达人
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Clean+Code+Advocate;Always+Learning+New+Things;Building+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=全栈开发工程师;代码洁癖患者;终身学习践行者;构建数字化体验" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 关于我
 
 ```typescript
 const flaw = {
     name: "Flaw",
-    role: "Full-Stack Developer",
-    location: "🌍 Somewhere in the digital realm",
+    role: "全栈开发工程师",
+    location: "🌍 数字世界的某个角落",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
     frameworks: ["React", "Vue", "Node.js", "Express", "Django", "Spring"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
     tools: ["Docker", "AWS", "Git", "Jenkins", "Kubernetes"],
-    hobbies: ["📚 Reading", "🎮 Gaming", "💻 Coding", "🎵 Music"],
-    currentlyLearning: "Advanced System Design & Microservices Architecture",
-    lifePhilosophy: "Code is poetry, bugs are just plot twists 🐛"
+    hobbies: ["📚 阅读", "🎮 游戏", "💻 编程", "🎵 音乐"],
+    currentlyLearning: "高级系统设计与微服务架构",
+    lifePhilosophy: "代码如诗，bug只是情节转折 🐛"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 
-### Frontend
+### 前端技术
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
+### 后端技术
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Database & Cloud
+### 数据库 & 云服务
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & DevOps
+### 工具 & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +61,7 @@ const flaw = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub 数据统计
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -74,48 +74,48 @@ const flaw = {
 
 ---
 
-## 🎯 Current Focus
+## 🎯 当前专注
 
-- 🔭 **Working on:** Building scalable microservices architectures
-- 🌱 **Learning:** Advanced cloud-native technologies and DevOps practices  
-- 👯 **Collaborating:** Open source projects that make developers' lives easier
-- 💬 **Ask me about:** Full-stack development, system design, or the latest tech books
-- ⚡ **Fun fact:** I debug code better after a good gaming session 🎮
+- 🔭 **正在开发：** 构建可扩展的微服务架构
+- 🌱 **学习中：** 云原生技术与高级DevOps实践  
+- 👯 **合作项目：** 让开发者生活更轻松的开源项目
+- 💬 **交流话题：** 全栈开发、系统设计、技术书籍推荐
+- ⚡ **有趣事实：** 游戏后调试代码效率更高 🎮
 
 ---
 
-## 📚 Latest Blog Posts & Reads
+## 📚 最新博客 & 阅读
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 Currently reading: "Clean Architecture" by Robert C. Martin
-- 📝 Recent thoughts on: Microservices vs Monoliths - Finding the balance
-- 🧠 Exploring: The intersection of AI and software development
+- 📖 正在阅读：《架构整洁之道》- Robert C. Martin
+- 📝 最新思考：微服务 vs 单体架构 - 寻找平衡点
+- 🧠 探索中：AI与软件开发的交汇点
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🎮 Gaming & Hobbies
+## 🎮 游戏 & 爱好
 
 ```json
 {
-  "currentlyPlaying": ["Strategy Games", "RPGs", "Indie Titles"],
-  "favoriteGenres": ["Strategy", "RPG", "Simulation"],
-  "readingList": ["Tech Books", "Sci-Fi Novels", "Philosophy"],
-  "codingPhilosophy": "Write code that tells a story",
-  "motto": "Level up in life, one commit at a time"
+  "currentlyPlaying": ["策略游戏", "角色扮演", "独立游戏"],
+  "favoriteGenres": ["策略", "RPG", "模拟经营"],
+  "readingList": ["技术书籍", "科幻小说", "哲学著作"],
+  "codingPhilosophy": "用代码讲述故事",
+  "motto": "在人生中升级，一次提交一个进步"
 }
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 联系方式
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_WEBSITE)
+[![Website](https://img.shields.io/badge/个人网站-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_WEBSITE)
 
 </div>
 
@@ -123,7 +123,7 @@ const flaw = {
 
 <div align="center">
 
-### 💡 "The best way to predict the future is to create it."
+### 💡 "预测未来的最好方法就是创造未来"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
 
